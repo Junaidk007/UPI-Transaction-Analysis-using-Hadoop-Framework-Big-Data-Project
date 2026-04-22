@@ -7,12 +7,6 @@
 
 ---
 
-## 📌 Project Title
-
-**UPI Transaction Analysis using Hadoop Framework**
-
----
-
 ## 👨‍🏫 Batch / Group / Members
 
 * **University:** Babu Banarasi Das University
