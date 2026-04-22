@@ -1,4 +1,4 @@
-# 📊 UPI Transaction Analysis using Hadoop Framework
+<h2 align='center'>📊 UPI Transaction Analysis using Hadoop Framework</h2>
 
 <p align="center">
   <b>Big Data Fundamentals Project</b><br>
