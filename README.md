@@ -16,8 +16,8 @@
 * **Members:**
   * Junaid Khan (1240258209)
   * Apoorv Sharma (1240258116)
-  * Jai Prakash (1240258)
-  * Bipendra Kumar Pandey (1240258)
+  * Jai Prakash (1240258204)
+  * Bipendra Kumar Pandey (1240258150)
 
 ---
 
